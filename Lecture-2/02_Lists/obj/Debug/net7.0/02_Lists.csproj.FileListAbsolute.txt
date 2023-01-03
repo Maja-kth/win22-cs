@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\bin\Debug\net7.0\02_Lists.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\bin\Debug\net7.0\02_Lists.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\bin\Debug\net7.0\02_Lists.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\bin\Debug\net7.0\02_Lists.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\bin\Debug\net7.0\02_Lists.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\02_Lists.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\02_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\02_Lists.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\02_Lists.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\02_Lists.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\02_Lists.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\refint\02_Lists.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\02_Lists.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\02_Lists.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-2\02_Lists\obj\Debug\net7.0\ref\02_Lists.dll
