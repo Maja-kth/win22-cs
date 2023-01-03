@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\bin\Debug\net7.0\02_ConditionsAndStatements.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\bin\Debug\net7.0\02_ConditionsAndStatements.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\bin\Debug\net7.0\02_ConditionsAndStatements.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\bin\Debug\net7.0\02_ConditionsAndStatements.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\bin\Debug\net7.0\02_ConditionsAndStatements.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\02_ConditionsAndStatements.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\02_ConditionsAndStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\02_ConditionsAndStatements.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\02_ConditionsAndStatements.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\02_ConditionsAndStatements.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\02_ConditionsAndStatements.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\refint\02_ConditionsAndStatements.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\02_ConditionsAndStatements.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\02_ConditionsAndStatements.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-1\02_ConditionsAndStatements\obj\Debug\net7.0\ref\02_ConditionsAndStatements.dll
