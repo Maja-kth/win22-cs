@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\bin\Debug\net7.0\03_Abstractions.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\bin\Debug\net7.0\03_Abstractions.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\bin\Debug\net7.0\03_Abstractions.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\bin\Debug\net7.0\03_Abstractions.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\bin\Debug\net7.0\03_Abstractions.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\03_Abstractions.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\03_Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\03_Abstractions.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\03_Abstractions.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\03_Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\03_Abstractions.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\refint\03_Abstractions.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\03_Abstractions.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\03_Abstractions.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-3\03_Abstractions\obj\Debug\net7.0\ref\03_Abstractions.dll
