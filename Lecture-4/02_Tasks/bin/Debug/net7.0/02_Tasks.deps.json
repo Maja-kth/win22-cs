@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "02_Tasks/1.0.0": {
+        "dependencies": {
+          "SharedResources": "1.0.0"
+        },
+        "runtime": {
+          "02_Tasks.dll": {}
+        }
+      },
+      "SharedResources/1.0.0": {
+        "runtime": {
+          "SharedResources.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02_Tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedResources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

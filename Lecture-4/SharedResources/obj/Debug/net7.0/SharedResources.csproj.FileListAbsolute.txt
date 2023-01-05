@@ -1,0 +1,12 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\bin\Debug\net7.0\SharedResources.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\bin\Debug\net7.0\SharedResources.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\bin\Debug\net7.0\SharedResources.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\SharedResources.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\SharedResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\SharedResources.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\SharedResources.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\SharedResources.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\SharedResources.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\refint\SharedResources.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\SharedResources.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-4\SharedResources\obj\Debug\net7.0\ref\SharedResources.dll
