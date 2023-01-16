@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "glaN2e2LwB7fiz+Zti/3966dmpFx17YRj1D5mH0D43iWYhtIC6pR+TZJgR24s38TVOZNPcos42lOwFIt1yqgag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-cs\\Lecture-6\\WpfApp_MVVM\\WpfApp_MVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

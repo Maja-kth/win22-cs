@@ -1,0 +1,32 @@
+﻿<Window x:Class="SmartSystem_WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartSystem_WpfApp"
+        xmlns:viewmodels="clr-namespace:SmartSystem_WpfApp.MVVM.ViewModels"
+        xmlns:views="clr-namespace:SmartSystem_WpfApp.MVVM.Views"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        WindowState="Normal"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        d:DataContext="{d:DesignInstance Type=viewmodels:MainViewModel}"
+        Title="MainWindow" Height="720" Width="1280">
+    
+    <Border Style="{StaticResource MainWindowBorder}">
+        <ContentControl Content="{Binding CurrentViewModel}">
+            <ContentControl.Resources>
+                <DataTemplate DataType="{x:Type viewmodels:KitchenViewModel}">
+                    <views:KitchenView />
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:BedroomViewModel}">
+                    <views:BedroomView />
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:LivingroomViewModel}">
+                    <views:LivingroomView />
+                </DataTemplate>
+            </ContentControl.Resources>
+        </ContentControl>
+    </Border>
+</Window>

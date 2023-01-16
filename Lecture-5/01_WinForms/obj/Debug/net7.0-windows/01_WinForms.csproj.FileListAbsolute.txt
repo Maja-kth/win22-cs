@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\bin\Debug\net7.0-windows\01_WinForms.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\bin\Debug\net7.0-windows\01_WinForms.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\bin\Debug\net7.0-windows\01_WinForms.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\bin\Debug\net7.0-windows\01_WinForms.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\bin\Debug\net7.0-windows\01_WinForms.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\_01_WinForms.Form1.resources
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.csproj.GenerateResource.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\refint\01_WinForms.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\01_WinForms.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-cs\Lecture-5\01_WinForms\obj\Debug\net7.0-windows\ref\01_WinForms.dll
