@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gQZHsJSftnilc97loU4ZiQOm0KRbfruldJGfGi+P29IpVTnS7MLGFyDQjM7xlZqh647VkYK014U8fL8JJZ0iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-cs\\Lecture-7\\WpfApp\\WpfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
